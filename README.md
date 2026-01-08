@@ -20,9 +20,11 @@ Tech Stack
 
 Python, PyTorch (CUDA optional)
 
+The dataset has not been added, so users can use a customized text dataset.
 
 
 ### Purpose
 
 This repo is designed to demonstrate hands-on understanding of LLM fundamentals—model architecture, training dynamics, and embedding-based sequence modeling—by building an end-to-end implementation without relying on high-level LLM frameworks.
+
 
